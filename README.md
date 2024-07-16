@@ -1,9 +1,5 @@
 # 💱 Challenge Conversor de Monedas
 
-## 📜 Índice
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-
 ## 📖 Descripción del Proyecto
 Este proyecto es una aplicación de conversión de monedas desarrollada en Java como parte de un challenge. Utiliza la API [**Exchange Rate API**](https://www.exchangerate-api.com/) para obtener tasas de cambio en tiempo real y soporta las siguientes divisas:
 - USD (Dólar estadounidense)
